@@ -65,7 +65,8 @@ crypto-config.yaml 수정
 configtx.yaml 의 anchor peer, orderer 설정 Organization 생성
 config.yaml 수정 (Organization 정보 추가, profile 이름 변경)
 
-generate.sh (cryptogen, configtxgen 툴을 이용, 블록체인을 위한 네트워크를 위한 요소 자동 생성 스크립트)
+generate.sh 
+cryptogen, configtxgen 툴을 이용, 블록체인을 위한 네트워크를 위한 요소 자동 생성 스크립트
 
 네트워크 구성 확장
 docker-compose.yml 파일 수정 (여러 컨테이너를 일괄 관리할 수 있는 관리 파일.)
